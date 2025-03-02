@@ -12,7 +12,7 @@ This is a command-line To-Do List application written in Python. With this app, 
 - Delete all tasks.
 
 **Installation**
-- Clone this repository: git clone https://github.com/officicalalkhaldi/PyDo.git
+- Clone this repository: git clone https://github.com/rabbitq8/PyDo.git
 - Navigate to the project directory: cd PyDo
 - python main.py -h for help
 
